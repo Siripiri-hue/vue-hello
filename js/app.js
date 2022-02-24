@@ -1,8 +1,10 @@
-let root = new Vue (
+let app = new Vue (
     {
-    el: "#root",
+    el: "#helloVue",
     data: {
-        message: "hello world",
-        photoUrl: "https://picsum.photos/200/300"
+        message: "Hello Vue!",
+        photoUrl: "https://picsum.photos/200/300",
+        colorText: "textGreen textBlue",
+        bgColor: "bgAzure"
     }
 })

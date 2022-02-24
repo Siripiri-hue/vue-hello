@@ -1,0 +1,22 @@
+#helloVue {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#helloVue h1 {
+    text-align: center;
+}
+
+.textGreen {
+    color: rgb(34, 185, 34);
+}
+
+.textBlue {
+    color: rgb(55, 134, 253);
+}
+
+.bgAzure {
+    background-color: rgb(169, 237, 240);
+}
